@@ -1,0 +1,29 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.grid-container {
+    width: 100vw;
+    height:100vh;
+
+}
+header{
+    background-color: rgb(232, 223, 223);
+}
+main{
+    background-color: rgba(255, 219, 112, 0.4);
+}
+.grid_item{
+    background-color:rgb(255, 219, 112);
+}
+aside{
+    background-color: rgba(145, 250, 145, 0.5);
+}
+
+footer{
+    background-color: rgb(232, 223, 223);
+}
+.section_footer{
+    background-color: white;
+}
